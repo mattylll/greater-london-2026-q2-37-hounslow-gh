@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/greater-london-2026-q2-37-hounslow-gh/sitemap.xml
